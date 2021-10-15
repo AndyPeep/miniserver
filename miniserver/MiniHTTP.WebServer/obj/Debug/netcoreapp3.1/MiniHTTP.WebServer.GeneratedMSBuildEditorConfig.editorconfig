@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MiniHTTP.WebServer
+build_property.ProjectDir = C:\Users\PC10-204\source\repos\miniserver\MiniHTTP.WebServer\
